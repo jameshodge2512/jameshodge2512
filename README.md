@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jameshodge2512
-- 👀 My interests are Python/Pandas, R ,SAS , SQL .  .
-- 📫 How to reach me info@sequela.co.uk
+- 👀 My interests are Python/Pandas, R ,SAS , SQL .  
 
 - I have always had a passion for data analysis and programming. 
 - As a kid I enjoyed the introduction of personal computers (ZX spectrum, commodore 64, IBM PC …)  and spent hours copying and writing my own programs. 
